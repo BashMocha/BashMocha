@@ -6,7 +6,7 @@ I'm more interested in AI/ML, learning Python at the moment. You might want look
 
 Here's what I've been programmed recently:
 <!-- posts -->
- * **[12/07/2022]** [CS50's Introduction to Computer Science](https://github.com/CheesyFrappe/CS50-2022)
+ * [CS50's Introduction to Computer Science](https://github.com/CheesyFrappe/CS50-2022)
  <!-- /posts -->
 
 
