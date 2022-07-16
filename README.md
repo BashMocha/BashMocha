@@ -9,8 +9,7 @@ Here's what I've been programmed recently:
  * [CS50's Introduction to Computer Science](https://github.com/CheesyFrappe/CS50-2022)
  <!-- /posts -->
 
-
-<p>You might want to check out my <a href="[url](https://www.linkedin.com/in/emirhan-balc%C4%B1-052b07229/)">Linkedin Page</a></p> and get in touch on <a href="[url](https://twitter.com/_clavicusvile)">Twitter
+You might want to check out my [Linkedin Page](https://www.linkedin.com/in/emirhan-balc%C4%B1-052b07229/) and get in touch on [Twitter](https://twitter.com/_clavicusvile).
 
 
 
