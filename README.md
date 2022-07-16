@@ -1,8 +1,7 @@
 ### Greetings.
 
-<!--
-**CheesyFrappe/CheesyFrappe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+I'm Emir, a computer engineering student based in TR.
 
-I'm Emir.
+
 
 
