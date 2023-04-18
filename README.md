@@ -2,7 +2,7 @@
 
 I'm Emir, a computer engineering student based in TR.
 
-I'm interested in AI/ML, learning Python at the moment. You might want look at my Python [repository](https://github.com/CheesyFrappe/cs50-python), which taught by [CS50](https://cs50.harvard.edu/x/2022/).
+I'm interested in AI/ML and learning Python at the moment. You might want to look at my Python [repository](https://github.com/CheesyFrappe/cs50-python), which taught by [CS50](https://cs50.harvard.edu/x/2022/).
 
 Here's what I've been programmed recently:
 <!-- posts -->
