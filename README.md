@@ -6,7 +6,7 @@ I'm interested in AI/ML and learning Python at the moment. You might want to loo
 
 Here's what I've been programmed recently:
 <!-- posts -->
- * [CS50's Introduction to Computer Science](https://github.com/CheesyFrappe/CS50-2022)
+ * [CPU Process Scheduler](https://github.com/CheesyFrappe/cpu-fcfs-scheduler)
  * [Finance Tracker Application](https://github.com/CheesyFrappe/finance-web-app)
  * [Minesweeper AI](https://github.com/CheesyFrappe/minesweeper-ai)
  * [Quiz Application with API](https://github.com/CheesyFrappe/quiz-api-app)
