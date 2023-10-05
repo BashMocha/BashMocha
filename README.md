@@ -14,4 +14,4 @@ Here's what I've been programmed recently:
  * [Minesweeper AI](https://github.com/CheesyFrappe/minesweeper-ai)
  <!-- /posts -->
 
-You might want to check out my [Linkedin Page](https://www.linkedin.com/in/emirhan-balc%C4%B1-052b07229/), [HackerRank](https://www.hackerrank.com/aerangalerind) and get in touch on [Twitter](https://twitter.com/_clavicusvile).
+You might want to check out my [Linkedin Page](https://www.linkedin.com/in/emirhan-balc%C4%B1-052b07229/), [HackerRank](https://www.hackerrank.com/aerangalerind), [Leetcode](https://leetcode.com/CheesyFrappe/),  and get in touch on [Twitter](https://twitter.com/_clavicusvile).
