@@ -10,7 +10,7 @@ Here's what I've been programmed recently:
  * [Chip-8 Emulator in C](https://github.com/CheesyFrappe/chip8-emulator)
  * [CS50's Artificial Intelligence Course](https://github.com/CheesyFrappe/cs50-ai)
  * [CPU Process Scheduler](https://github.com/CheesyFrappe/cpu-fcfs-scheduler)
- * [RISCV Center of Mass Indicator](https://github.com/CheesyFrappe/riscv-hue-calculator/tree/master)
+ * [RISCV Center of Mass Locator](https://github.com/CheesyFrappe/riscv-center-of-mass-locator)
  * [Finance Tracker Application](https://github.com/CheesyFrappe/finance-web-app)
  <!-- /posts -->
 
