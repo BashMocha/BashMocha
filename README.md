@@ -6,7 +6,7 @@ I'm interested in AI/ML and learning TensorFlow at the moment. You might want to
 
 Here's what I've been programmed recently:
 <!-- posts -->
- * [Kaggle's Spaceship Titanic](https://github.com/CheesyFrappe/kaggle-spaceship-titanic)
+ * [Multithraeded TCP/IP Chat Server](https://github.com/CheesyFrappe/multithreaded-tcp-ip-chat-server)
  * [Chip-8 Emulator in C](https://github.com/CheesyFrappe/chip8-emulator)
  * [CS50's Artificial Intelligence Course](https://github.com/CheesyFrappe/cs50-ai)
  * [CPU Process Scheduler](https://github.com/CheesyFrappe/cpu-fcfs-scheduler)
