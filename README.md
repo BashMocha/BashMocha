@@ -2,7 +2,7 @@
 
 I'm Emir, a computer engineering student based in TR.
 
-I'm interested in AI/ML and learning TensorFlow at the moment. You might want to take a look at my TensorFlow course [repository](https://github.com/CheesyFrappe/deeplearning.ai-tensorflow-developer-course), which was taught by [DeepLearning.AI](https://www.deeplearning.ai/).
+I'm interested in AI/ML and learning TensorFlow at the moment. You might want to take a look at my TensorFlow course [repository](https://github.com/CheesyFrappe/deeplearning.ai-advanced-tensorflow/), which was taught by [DeepLearning.AI](https://www.deeplearning.ai/).
 
 Here's what I've been programmed recently:
 <!-- posts -->
