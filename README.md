@@ -1,8 +1,9 @@
-### Greetings.
+### Greetings,
 
 I'm Emir, a computer engineering student based in TR.
 
-I'm interested in AI/ML and learning TensorFlow at the moment. You might want to take a look at my TensorFlow course [repository](https://github.com/CheesyFrappe/deeplearning.ai-advanced-tensorflow/), which was taught by [DeepLearning.AI](https://www.deeplearning.ai/).
+I'm interested in AI/ML; specifically, natural language processing (NLP) and LLMs. You might want to take a look at my [ai-repository](https://github.com/CheesyFrappe/artificial-intelligence-stuff), which 
+comprises several [courses](https://github.com/CheesyFrappe/artificial-intelligence-stuff/tree/master/Courses) and source codes for mastering AI concepts.
 
 Here's what I've been programmed recently:
 <!-- posts -->
@@ -14,4 +15,4 @@ Here's what I've been programmed recently:
  * [RISCV Center of Mass Locator](https://github.com/CheesyFrappe/riscv-center-of-mass-locator)
  <!-- /posts -->
 
-You might want to check out my [Linkedin Page](https://www.linkedin.com/in/emirhan-balc%C4%B1-052b07229/), [HackerRank](https://www.hackerrank.com/aerangalerind), [Leetcode](https://leetcode.com/CheesyFrappe/),  and get in touch on [Twitter](https://twitter.com/_clavicusvile).
+You may consider to check out my [Linkedin Page](https://www.linkedin.com/in/emirhan-balc%C4%B1-052b07229/), [HackerRank](https://www.hackerrank.com/aerangalerind), [Leetcode](https://leetcode.com/CheesyFrappe/),  and get in touch on [Twitter](https://twitter.com/_clavicusvile).
