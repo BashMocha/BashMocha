@@ -11,4 +11,4 @@ Here's what I've been programmed recently:
  * [Object Detection on Raspberry Pi](https://github.com/CheesyFrappe/object-detection-on-raspberry-pi/tree/master)
  <!-- /posts -->
 
-You may consider to check out my [Linkedin Page](https://www.linkedin.com/in/emirhan-balc%C4%B1-052b07229/), [Hugging Face](https://huggingface.co/CheesyFrappe), [Leetcode](https://leetcode.com/CheesyFrappe/),  and get in touch on [X](https://twitter.com/_clavicusvile) (formerly Twitter).
+You may consider to check out my [Linkedin Page](https://www.linkedin.com/in/emirhan-balc%C4%B1-052b07229/), [Hugging Face](https://huggingface.co/CheesyFrappe), [Leetcode](https://leetcode.com/CheesyFrappe/),  and get in touch on [X](https://twitter.com/BashMocha) (formerly Twitter).
