@@ -2,7 +2,7 @@
 
 I'm <b>Emir</b>, a machine learning aficionado with a strong passion for all things open source. I thoroughly enjoy delving into the intricacies of natural language processing and tinkering with state-of-the-art large language models.
 
-At present, I am engaged in the integration of visual language models with robotics as an intern researcher at [Çukurova AI](https://cukurovaai.github.io/), focusing on advancing human-robot interaction capabilities.
+At present, I'm engaged in the integration of visual language models with robotics as an intern researcher at [Çukurova AI](https://cukurovaai.github.io/), focusing on advancing human-robot interaction capabilities.
 
 Here's what I've been programmed recently:
 <!-- posts -->
